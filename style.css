@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.container {
+    border-right: 2px solid teal;
+    border-left: 2px solid teal;
+
+}
